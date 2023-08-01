@@ -1,0 +1,7 @@
+# ignore save files and .pyc's
+*~
+.pyc
+env
+data
+__pycache__
+model.pth
